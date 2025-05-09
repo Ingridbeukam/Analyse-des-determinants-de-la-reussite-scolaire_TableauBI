@@ -51,13 +51,21 @@ Le tableau de bord interactif permet d’explorer dynamiquement les tendances, c
 
 ## 💡 Insights dégagés
 -Moyenne des résultats finaux (G3) par (sexe, Education des parents, school, address)
+
 -Répartition des notes finales (G3)
+
 -Taux d’échec par école, par genre, par activité
+
 -Moyenne des absences par studytime, romantic, etc.
+
 -Influence du temps de trajet (traveltime) sur la note finale
+
 -Score global et Catégorisation : Élèves faibles / moyens / forts
+
 -Corrélation entre facteurs et performances (G3)
+
 -Consommation d’alcool vs G3
+
 -Moyenne d’absences selon certains facteurs (studytime, romantic, goout)
 
 
