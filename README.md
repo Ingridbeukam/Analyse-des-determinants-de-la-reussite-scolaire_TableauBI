@@ -72,11 +72,11 @@ Le tableau de bord interactif permet d’explorer dynamiquement les tendances, c
 
 ---
 
-##✅ Conclusion de l’analyse
+## ✅ Conclusion de l’analyse
 
 L’analyse des données issues du dataset student_data révèle que la réussite scolaire (note G3) des élèves est influencée par une combinaison de facteurs personnels, familiaux et comportementaux, bien plus qu’un seul élément isolé.
 
-##🎓 Facteurs familiaux
+### 🎓 Facteurs familiaux
 
 Niveau d’éducation des parents : On observe une augmentation progressive des moyennes G3 avec le niveau d'éducation du père. Une tendance similaire, bien que plus modérée, est visible du côté de la mère.
 
@@ -86,13 +86,13 @@ Profession des parents : Les élèves dont les parents travaillent dans les doma
 
 Responsable légal : Les élèves gardés par leur père ou mère ont des moyennes plus élevées (~10.6 et ~10.4) que ceux gardés par d’autres personnes (~9.03), effet renforcé selon la taille de la famille.
 
-##🕒 Facteurs comportementaux
+### 🕒 Facteurs comportementaux
 
 Temps d’étude hebdomadaire : Les meilleurs résultats sont atteints avec un temps d’étude modéré (5–10 heures/semaine). Un temps d’étude très élevé n’entraîne pas nécessairement une amélioration des performances.
 
 Accès à Internet : Les élèves disposant d’un accès à Internet à la maison ont une moyenne G3 supérieure (10.6) comparée à ceux qui n’y ont pas accès (9.4).
 
-##🍷 Facteurs sociaux et autres
+### 🍷 Facteurs sociaux et autres
 
 Consommation d’alcool (semaine ou week-end) : Aucun lien clair ou constant n’est observé entre la consommation d’alcool et les performances scolaires dans ce dataset.
 
@@ -102,7 +102,8 @@ Zone d’habitation : Les élèves vivant en zone urbaine obtiennent en moyenne 
 
 Distribution générale des notes : L’histogramme montre que la majorité des élèves (plus de 60) obtiennent une moyenne G3 comprise entre 10 et 12.
 
-##🧠 Conclusion générale
+### 🧠 Conclusion générale
 Les résultats indiquent que la réussite scolaire est multifactorielle : un soutien familial solide, un temps d’étude équilibré, un bon cadre de vie (urbain, connecté) et une présence parentale directe sont des leviers favorables à de meilleures performances académiques.
 
-
+### 📬 Contact
+Tu peux me contacter via ingridbeukam@gmail.com ou LinkedIn https://www.linkedin.com/in/ingrid-madjougang-beukam/ pour toute question ou suggestion.
